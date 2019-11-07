@@ -1,0 +1,123 @@
+
+/* Class = "UIButton"; normalTitle = "Comercio electrónico"; ObjectID = "0j9-fU-1uQ"; */
+"0j9-fU-1uQ.normalTitle" = "Comercio electrónico";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "1K5-bZ-D96"; */
+"1K5-bZ-D96.text" = "Color";
+
+/* Class = "UILabel"; text = "Canal"; ObjectID = "5LX-nk-g7c"; */
+"5LX-nk-g7c.text" = "Canal";
+
+/* Class = "UILabel"; text = "Pago Programado"; ObjectID = "5Tb-ke-vYC"; */
+"5Tb-ke-vYC.text" = "Pago Programado";
+
+/* Class = "UILabel"; text = "Nombre de comercio"; ObjectID = "A3d-5h-tTp"; */
+"A3d-5h-tTp.text" = "Nombre de comercio";
+
+/* Class = "UILabel"; text = "Monto"; ObjectID = "BkS-ng-UFC"; */
+"BkS-ng-UFC.text" = "Monto";
+
+/* Class = "UIButton"; normalTitle = "Crear"; ObjectID = "DpM-zw-M1F"; */
+"DpM-zw-M1F.normalTitle" = "Crear";
+
+/* Class = "UIButton"; normalTitle = "Iniciar Demo"; ObjectID = "EUX-Mn-XH9"; */
+"EUX-Mn-XH9.normalTitle" = "Iniciar Demo";
+
+/* Class = "UILabel"; text = "Código de comercio"; ObjectID = "Ebr-Ve-fou"; */
+"Ebr-Ve-fou.text" = "Código de comercio";
+
+/* Class = "UITextField"; placeholder = "Selecciona canal"; ObjectID = "FAn-TH-RSV"; */
+"FAn-TH-RSV.placeholder" = "Selecciona canal";
+
+/* Class = "UITextField"; placeholder = "Selecciona canal"; ObjectID = "FpJ-rZ-fjh"; */
+"FpJ-rZ-fjh.placeholder" = "Selecciona canal";
+
+/* Class = "UILabel"; text = "Comercio Eléctronico"; ObjectID = "Fyx-YI-AYU"; */
+"Fyx-YI-AYU.text" = "Comercio Eléctronico";
+
+/* Class = "UILabel"; text = "Tipo Recurrencia"; ObjectID = "JEL-aw-Pq6"; */
+"JEL-aw-Pq6.text" = "Tipo Recurrencia";
+
+/* Class = "UITextField"; placeholder = "Selecciona documento"; ObjectID = "JHH-gz-Bqi"; */
+"JHH-gz-Bqi.placeholder" = "Selecciona documento";
+
+/* Class = "UILabel"; text = "Monto Máximo"; ObjectID = "JYJ-pO-gxl"; */
+"JYJ-pO-gxl.text" = "Monto Máximo";
+
+/* Class = "UINavigationItem"; title = "Formularios"; ObjectID = "JkD-ye-ehu"; */
+"JkD-ye-ehu.title" = "Formularios";
+
+/* Class = "UIButton"; normalTitle = "Crear"; ObjectID = "JqM-wS-c8n"; */
+"JqM-wS-c8n.normalTitle" = "Crear";
+
+/* Class = "UILabel"; text = "E-mail de TH"; ObjectID = "Lpy-mi-fIb"; */
+"Lpy-mi-fIb.text" = "E-mail de TH";
+
+/* Class = "UILabel"; text = "Nombre de TH"; ObjectID = "MuG-W0-DLj"; */
+"MuG-W0-DLj.text" = "Nombre de TH";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "NQ9-wN-AaY"; */
+"NQ9-wN-AaY.text" = "Color";
+
+/* Class = "UILabel"; text = "Ver Monto"; ObjectID = "P8Z-fS-DNf"; */
+"P8Z-fS-DNf.text" = "Ver Monto";
+
+/* Class = "UILabel"; text = "Apellido de TH"; ObjectID = "QrG-BS-niA"; */
+"QrG-BS-niA.text" = "Apellido de TH";
+
+/* Class = "UILabel"; text = "Token"; ObjectID = "RZp-Yq-mgl"; */
+"RZp-Yq-mgl.text" = "Token";
+
+/* Class = "UILabel"; text = "Nro Documento"; ObjectID = "Tt6-Sd-0fy"; */
+"Tt6-Sd-0fy.text" = "Nro Documento";
+
+/* Class = "UILabel"; text = "Canal"; ObjectID = "UTe-Ak-UUM"; */
+"UTe-Ak-UUM.text" = "Canal";
+
+/* Class = "UILabel"; text = "Código de comercio"; ObjectID = "Vlt-EI-t2d"; */
+"Vlt-EI-t2d.text" = "Código de comercio";
+
+/* Class = "UILabel"; text = "Tipo de documento"; ObjectID = "aNg-3m-MuF"; */
+"aNg-3m-MuF.text" = "Tipo de documento";
+
+/* Class = "UILabel"; text = "Monto Inicial"; ObjectID = "cFd-Nu-RAf"; */
+"cFd-Nu-RAf.text" = "Monto Inicial";
+
+/* Class = "UILabel"; text = "Apellido Beneficiario"; ObjectID = "eM0-Zc-lpx"; */
+"eM0-Zc-lpx.text" = "Apellido Beneficiario";
+
+/* Class = "UITextField"; placeholder = "Selecciona el color"; ObjectID = "fvb-dn-X5t"; */
+"fvb-dn-X5t.placeholder" = "Selecciona el color";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "iwz-Iu-h2T"; */
+"iwz-Iu-h2T.title" = " ";
+
+/* Class = "UILabel"; text = "Monto Cargo"; ObjectID = "jDg-MQ-fPs"; */
+"jDg-MQ-fPs.text" = "Monto Cargo";
+
+/* Class = "UILabel"; text = "Nombre Beneficiario"; ObjectID = "kyN-2m-f2n"; */
+"kyN-2m-f2n.text" = "Nombre Beneficiario";
+
+/* Class = "UILabel"; text = "Selecciona el tipo de formulario"; ObjectID = "nHQ-ul-7kg"; */
+"nHQ-ul-7kg.text" = "Selecciona el tipo de formulario";
+
+/* Class = "UILabel"; text = "Nombre de comercio"; ObjectID = "oXh-SA-2Gz"; */
+"oXh-SA-2Gz.text" = "Nombre de comercio";
+
+/* Class = "UITextField"; placeholder = "Selecciona frecuencia"; ObjectID = "pKx-3e-N5b"; */
+"pKx-3e-N5b.placeholder" = "Selecciona frecuencia";
+
+/* Class = "UILabel"; text = "ID Beneficiario"; ObjectID = "qvq-kD-QUb"; */
+"qvq-kD-QUb.text" = "ID Beneficiario";
+
+/* Class = "UITextField"; placeholder = "Selecciona el color"; ObjectID = "r1H-L6-qwd"; */
+"r1H-L6-qwd.placeholder" = "Selecciona el color";
+
+/* Class = "UILabel"; text = "Código Producto"; ObjectID = "ra8-df-5Z2"; */
+"ra8-df-5Z2.text" = "Código Producto";
+
+/* Class = "UILabel"; text = "Frecuencia"; ObjectID = "tm6-vA-xTf"; */
+"tm6-vA-xTf.text" = "Frecuencia";
+
+/* Class = "UITextField"; placeholder = "Selecciona el tipo"; ObjectID = "vVa-VB-dIa"; */
+"vVa-VB-dIa.placeholder" = "Selecciona el tipo";
